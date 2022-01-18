@@ -3,7 +3,7 @@
 
 In this project, i tried to make a collaborative based Book recommendation System.
 
-project link :- https://book-recommendation--ai.herokuapp.com/
+project link :- https://book-recommendation-engine-ai.herokuapp.com/
 
 
 ## Overview
